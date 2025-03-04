@@ -18,6 +18,7 @@ echo"<br>";
 var_dump(is_float($x));
 echo"<br>";
 var_dump($e);
+echo"nahom";
 
 
 ?>
